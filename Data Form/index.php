@@ -18,7 +18,7 @@
     <title>Document</title>
     <script src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css">
-    <script src="js/Validation.js"></script>
+
 </head>
 <body>
 
@@ -30,7 +30,7 @@
             <form>
                 <div class="form-group">
                     <label for="inputID">ID</label>
-                    <input type="text" class="form-control" id="inputID" aria-describedby="emailHelp" placeholder="ID">
+                    <input type="text" class="form-control" id="txtID" aria-describedby="emailHelp" placeholder="ID">
 
 
             </form>
@@ -59,7 +59,7 @@
                 <div class="form-group">
                     <label for="inputSalary">Salary</label>
                     <input type="text" class="form-control" id="inputSalary" aria-describedby="emailHelp"
-                           placeholder="Salary" required >
+                           placeholder="Salary"  >
 
 
             </form>
@@ -68,11 +68,9 @@
 
             <form>
                 <div class="form-group">
-                    <label for="inputSalary">Phone Number</label>
-                    <input type="text" class="form-control" id="inputPhoneNO" aria-describedby="emailHelp"
-                           placeholder="xxx-xxxxxxx" pattern="^\d{3}-\d{7}$" required>
-
-                    <!--            <input type="submit" value="Submit">-->
+                    <label for="inputP.Number">Phone Number</label>
+                    <input type="text" class="form-control" id="txtPhoneNo" aria-describedby="emailHelp"
+                           placeholder="Salary"  >
 
 
             </form>
@@ -82,13 +80,19 @@
                 <input type="checkbox" class="form-check-input" id="exampleCheck1">
                 <label class="form-check-label" for="exampleCheck1">Check me out</label>
             </div>
-            <button type="button" value="Submit" class="btn btn-primary" id="btn01">Submit</button>
+
+
+<!--            ////////////////////////// button////////////////////-->
+            <button type="submit"  class="btn btn-primary" id="btn-Add">Submit</button>
 
         </div>
     </div>
 
 </div>
 
+
+<script src="js/jquery-3.4.1.min.js"
+<script src="js/Validation.js"></script>
 
 </body>
 </html>

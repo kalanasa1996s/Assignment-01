@@ -1,9 +1,12 @@
-$("#btnValidation").click(function () {
+// Validation - Customer ID
 
-    var value1 =$("#inputID").val();
-    var regX =/C\d{3}/;
-    var result = regX.test(value1);
-    if (!result) {
-        $("#inputID").css('border', '1px solid red').focus();
+$("inputID").click(function () {
+    var cid=$("txtID").val();
+    var regEx ="/C-\d{3}/";
+    var result = regEx.test(cid);
+    if (!result){
+        alert("ID IS INVALID")
+
     }
-});
+
+})
