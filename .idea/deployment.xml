@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="DataForm">
+    <serverData>
+      <paths name="DataForm">
+        <serverdata>
+          <mappings>
+            <mapping deploy="DataForm" local="$PROJECT_DIR$/Data Form" web="/DataForm" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
