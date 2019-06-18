@@ -29,7 +29,7 @@
 
 
 
-            <form action="main/page%202.php" method="post">
+            <form action="main/page%202.php" method="post" id="form">
                 <div class="form-group">
                     <label for="inputID">ID : </label>
                     <input type="text" class="form-control" id="txtID" aria-describedby="emailHelp" placeholder="ID" name="txtID">
@@ -93,7 +93,7 @@
 </div>
 
 
-<script src="js/jquery-3.4.1.min.js"
+<script src="js/jquery-3.4.1.min.js"></script>
 <script src="js/Validation.js"></script>
 
 </body>
