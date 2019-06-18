@@ -31,7 +31,7 @@
 
             <form action="main/page%202.php" method="post">
                 <div class="form-group">
-                    <label for="inputID">ID</label>
+                    <label for="inputID">ID : </label>
                     <input type="text" class="form-control" id="txtID" aria-describedby="emailHelp" placeholder="ID" name="txtID">
 
 
@@ -41,7 +41,7 @@
 
 
                 <div class="form-group">
-                    <label for="inputName">Name</label>
+                    <label for="inputName">Name :</label>
                     <input type="text" class="form-control" id="txtname" aria-describedby="emailHelp"
                            placeholder="Name" name="txtname">
 
@@ -49,7 +49,7 @@
 
 
                 <div class="form-group">
-                    <label for="inputEmail">E - mail</label>
+                    <label for="inputEmail">E - mail :</label>
                     <input type="text" class="form-control" id="txtemail" aria-describedby="emailHelp"
                            placeholder="E-mail" name="txtemail">
 
@@ -58,7 +58,7 @@
 
 
                 <div class="form-group">
-                    <label for="inputSalary">Salary</label>
+                    <label for="inputSalary">Salary :</label>
                     <input type="text" class="form-control" id="txtSalary" aria-describedby="emailHelp"
                            placeholder="Salary" name="txtSalary" >
 
@@ -69,7 +69,7 @@
 
 
                 <div class="form-group">
-                    <label for="inputP.Number">Phone Number</label>
+                    <label for="inputP.Number">Phone Number :</label>
                     <input type="text" class="form-control" id="txtPhoneNo" aria-describedby="emailHelp"
                            placeholder="Salary" name="txtPhoneno">
                 </div>

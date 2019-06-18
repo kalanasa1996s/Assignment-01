@@ -7,7 +7,6 @@
     <list default="true" id="cbedce6b-3e68-4a7e-8c3d-fc9ac3ce0e34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Form/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Data Form/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Form/main/page 2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Data Form/main/page 2.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Data Form/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+            <state relative-caret-position="68">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -115,7 +114,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560818852742" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560819064878" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IJSE 2nd SEM WEB- Assignemnt/K.H.Kalana Sasanka - 961350727V/Web Assignment 8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -162,7 +161,7 @@
       <updated>1560751939447</updated>
       <workItem from="1560751942572" duration="11069000" />
       <workItem from="1560785674443" duration="10000" />
-      <workItem from="1560785697634" duration="6643000" />
+      <workItem from="1560785697634" duration="6886000" />
     </task>
     <task id="LOCAL-00001" summary="Second">
       <created>1560757623625</created>
@@ -206,11 +205,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560817832568</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="-m &#9;V 0.0.1">
+      <created>1560818955232</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560818955232</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17722000" />
+    <option name="totallyTimeSpent" value="17965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -298,7 +304,8 @@
     <MESSAGE value="-m commit" />
     <MESSAGE value="-m fourth" />
     <MESSAGE value="-m &#9;sixth" />
-    <option name="LAST_COMMIT_MESSAGE" value="-m &#9;sixth" />
+    <MESSAGE value="-m &#9;V 0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="-m &#9;V 0.0.1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Data Form/js/jquery-3.4.1.min.js">
@@ -330,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Form/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+        <state relative-caret-position="68">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
