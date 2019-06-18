@@ -27,8 +27,9 @@
         <div class="mainbord" style="padding: 30px">
 
 
+
+
             <form action="main/page%202.php" method="post">
-            <form>
                 <div class="form-group">
                     <label for="inputID">ID</label>
                     <input type="text" class="form-control" id="txtID" aria-describedby="emailHelp" placeholder="ID" name="txtID">
@@ -36,48 +37,45 @@
 
 
 
-            </form>
 
 
-            <form>
+
                 <div class="form-group">
                     <label for="inputName">Name</label>
-                    <input type="text" class="form-control" id="inputName" aria-describedby="emailHelp"
+                    <input type="text" class="form-control" id="txtname" aria-describedby="emailHelp"
                            placeholder="Name" name="txtname">
 
 
-            </form>
 
 
-            <form>
                 <div class="form-group">
                     <label for="inputEmail">E - mail</label>
-                    <input type="text" class="form-control" id="inputEmail" aria-describedby="emailHelp"
+                    <input type="text" class="form-control" id="txtemail" aria-describedby="emailHelp"
                            placeholder="E-mail" name="txtemail">
 
 
-            </form>
 
-            <form>
+
+
                 <div class="form-group">
                     <label for="inputSalary">Salary</label>
-                    <input type="text" class="form-control" id="inputSalary" aria-describedby="emailHelp"
+                    <input type="text" class="form-control" id="txtSalary" aria-describedby="emailHelp"
                            placeholder="Salary" name="txtSalary" >
 
 
-            </form>
+
 
             <br>
 
-            <form>
+
                 <div class="form-group">
                     <label for="inputP.Number">Phone Number</label>
                     <input type="text" class="form-control" id="txtPhoneNo" aria-describedby="emailHelp"
                            placeholder="Salary" name="txtPhoneno">
+                </div>
 
 
-            </form>
-
+                    <br>
 
             <div class="form-group form-check">
                 <input type="checkbox" class="form-check-input" id="exampleCheck1">
@@ -88,7 +86,7 @@
 <!--            ////////////////////////// button////////////////////-->
             <button type="submit" value="send"  class="btn btn-primary" id="btn-Add">Submit</button>
 
-                </form>
+            </form>
         </div>
     </div>
 
