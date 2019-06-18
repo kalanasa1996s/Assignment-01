@@ -27,10 +27,13 @@
         <div class="mainbord" style="padding: 30px">
 
 
+            <form action="main/page%202.php" method="post">
             <form>
                 <div class="form-group">
                     <label for="inputID">ID</label>
-                    <input type="text" class="form-control" id="txtID" aria-describedby="emailHelp" placeholder="ID">
+                    <input type="text" class="form-control" id="txtID" aria-describedby="emailHelp" placeholder="ID" name="txtID">
+
+
 
 
             </form>
@@ -40,7 +43,7 @@
                 <div class="form-group">
                     <label for="inputName">Name</label>
                     <input type="text" class="form-control" id="inputName" aria-describedby="emailHelp"
-                           placeholder="Name">
+                           placeholder="Name" name="txtname">
 
 
             </form>
@@ -50,7 +53,7 @@
                 <div class="form-group">
                     <label for="inputEmail">E - mail</label>
                     <input type="text" class="form-control" id="inputEmail" aria-describedby="emailHelp"
-                           placeholder="E-mail">
+                           placeholder="E-mail" name="txtemail">
 
 
             </form>
@@ -59,7 +62,7 @@
                 <div class="form-group">
                     <label for="inputSalary">Salary</label>
                     <input type="text" class="form-control" id="inputSalary" aria-describedby="emailHelp"
-                           placeholder="Salary"  >
+                           placeholder="Salary" name="txtSalary" >
 
 
             </form>
@@ -70,7 +73,7 @@
                 <div class="form-group">
                     <label for="inputP.Number">Phone Number</label>
                     <input type="text" class="form-control" id="txtPhoneNo" aria-describedby="emailHelp"
-                           placeholder="Salary"  >
+                           placeholder="Salary" name="txtPhoneno">
 
 
             </form>
@@ -83,8 +86,9 @@
 
 
 <!--            ////////////////////////// button////////////////////-->
-            <button type="submit"  class="btn btn-primary" id="btn-Add">Submit</button>
+            <button type="submit" value="send"  class="btn btn-primary" id="btn-Add">Submit</button>
 
+                </form>
         </div>
     </div>
 
