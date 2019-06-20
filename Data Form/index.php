@@ -58,7 +58,7 @@
 
 
                 <div class="form-group">
-                    <label for="inputSalary">Salary :</label>
+                    <label for="inputSalary">Salary -:</label>
                     <input type="text" class="form-control" id="txtSalary" aria-describedby="emailHelp"
                            placeholder="Salary" name="txtSalary" >
 

@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbedce6b-3e68-4a7e-8c3d-fc9ac3ce0e34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Form/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Data Form/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Form/js/Validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/Data Form/js/Validation.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,8 +70,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -81,6 +79,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,14 +102,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560846613606" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IJSE 2nd SEM WEB- Assignemnt/K.H.Kalana Sasanka - 961350727V/Web Assignment 8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -157,7 +155,9 @@
       <workItem from="1560751942572" duration="11069000" />
       <workItem from="1560785674443" duration="10000" />
       <workItem from="1560785697634" duration="9998000" />
-      <workItem from="1560896405831" duration="810000" />
+      <workItem from="1560896405831" duration="1546000" />
+      <workItem from="1560898028247" duration="797000" />
+      <workItem from="1560901405587" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="Second">
       <created>1560757623625</created>
@@ -215,17 +215,24 @@
       <option name="project" value="LOCAL" />
       <updated>1560819117894</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="-m &#9;V 0.1.2">
+      <created>1560897239370</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560897239370</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21887000" />
+    <option name="totallyTimeSpent" value="23435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19798657" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2033557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
