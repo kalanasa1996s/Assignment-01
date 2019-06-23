@@ -31,7 +31,7 @@
 
             <form action="main/page%202.php" method="post" id="form">
                 <div class="form-group">
-                    <label for="inputID">ID : </label>
+                    <label for="inputID">ID -: </label>
                     <input type="text" class="form-control" id="txtID" aria-describedby="emailHelp" placeholder="ID" name="txtID">
 
 
@@ -69,7 +69,7 @@
 
 
                 <div class="form-group">
-                    <label for="inputP.Number">Phone Number :</label>
+                    <label for="inputP.Number">Phone Number :-</label>
                     <input type="text" class="form-control" id="txtPhoneNo" aria-describedby="emailHelp"
                            placeholder="Salary" name="txtPhoneno">
                 </div>
